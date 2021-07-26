@@ -1,7 +1,7 @@
 //Part II: Program Specific Challenge
 var famousPerson = "Obama";
 var isActive = true;
-var famousPerson = "Joe Biden";
+famousPerson = "Joe Biden";
 console.log(famousPerson);
 //rename famousPerson
 
