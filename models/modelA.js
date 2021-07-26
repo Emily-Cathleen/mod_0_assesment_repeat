@@ -11,13 +11,10 @@
 var airport = {
   airportName: "BWI",
   airline: "South West",
-
   numberOfMorningFlights: 46,
   numberOfRedEyeFlights: 12,
-
   isFirstClass: true,
   isBusinessClass: false,
-
   coffeeOptions: ["Starbucks", "Dunkin Donuts"],
   restaurantOptions: ["Obrycki's Restaurant and Bar", "The Burger Joint", "Silver Diner"]
 }

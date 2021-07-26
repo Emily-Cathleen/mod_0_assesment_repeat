@@ -11,13 +11,10 @@
 var vehicle =   {
   vehicleMake: "Hyandai",
   vehicleModel: "Tuscon",
-
   numberOfMiles: 60000,
   milesPerGallon: 20,
-
   isNew: false,
   isUsed: true,
-
   nickNames: ["Dazz", "Dazzler", "Cameron Diaz"],
   package: ["Bluetooth", "Serius XM Radio", "4 Wheel Drive"]
 }
